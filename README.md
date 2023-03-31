@@ -1,6 +1,6 @@
 # Chat-Room
-Chat-Room is a Socket based python script that allows you to connect with multiple devices via LAN/Hotspot and chat with your friends..
-Module used --> socket, threading and sys.
+Chat-Room is a Socket based python script that allows you to connect with multiple devices via LAN/Hotspot and chat with your friends.
+Modules used --> socket, threading and sys.
 
 It has 2 modes:
 
@@ -9,11 +9,11 @@ It has 2 modes:
 
 How to set-up the Server ?
 
-Step 1.) Run Server.puy
+Step 1.) Run Server.py
 
 Step 2.) Choose Online or Offline mode as per your use.
 
-Step 3.) Create a Admin name and password (for master control login in future).
+Step 3.) Create an Admin name and password (for master control login in the future).
 
 Step 4.) Note the IPV4 address given by the program.
 
